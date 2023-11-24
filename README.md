@@ -11,7 +11,7 @@ Unityエンジンをベースにした2Dシューティングゲームのポー�
 - 開発言語 : C#
 
 ## Project Statement
-- リンク : https://drive.google.com/file/d/1GEcB_Rw3W__E1FKczulgy6J-5OVGz85z/view?usp=drive_link
+- リンク : https://drive.google.com/file/d/1dYiLFtIQyLvtoM2UHqcimG6bDzVS6vvH/view?usp=drive_link
 
 ## Project Video
 - リンク : https://youtu.be/fDJ_b0npUUs
