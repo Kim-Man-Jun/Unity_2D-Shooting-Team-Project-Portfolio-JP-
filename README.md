@@ -14,4 +14,4 @@ Unityエンジンをベースにした2Dシューティングゲームのポー�
 - リンク : https://drive.google.com/file/d/1dYiLFtIQyLvtoM2UHqcimG6bDzVS6vvH/view?usp=drive_link
 
 ## Project Video
-- リンク : https://youtu.be/fDJ_b0npUUs
+- リンク : https://youtu.be/lN3NNdIGbWE
